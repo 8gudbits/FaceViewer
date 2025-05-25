@@ -3,8 +3,8 @@
     "name": "FaceViewer",
     "version": "1.0.0",
     "description": "Facebook profile picture viewer",
-    "author": "TechWhizKid",
-    "homepage_url": "https://github.com/TechWhizKid/FaceViewer",
+    "author": "8gudbits",
+    "homepage_url": "https://github.com/8gudbits/FaceViewer",
     "offline_enabled": false,
     "icons": {
         "32": "icons/32.png",
